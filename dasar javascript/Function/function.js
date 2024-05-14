@@ -51,3 +51,4 @@ let tampilConsole = () => {
     console.log("Hallo world")
 }
 
+ kayanya ini enak buat berdiri aja deh
